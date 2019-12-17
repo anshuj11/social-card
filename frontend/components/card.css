@@ -1,0 +1,28 @@
+.SocialCard {
+  width: 500px;
+  height: 300px;
+}
+
+.OrangeBox {
+  background-color: orange;
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+.Name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+.Designation {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.Thumbnail {
+  display: none;
+}
